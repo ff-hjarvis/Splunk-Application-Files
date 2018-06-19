@@ -1,5 +1,5 @@
 # Splunk-Application-Files
-This is where the Splunk Operations Application will be stored. The objective is to create an app where 
-everyone in the company can view created dashboards and get alerts from this app and any additions made to the
-Splunk dashboard.
-
+These files are supposed to pull Splunk Application files from one instance and distribute the app to anyone
+who desires it. By implementing these files, one should also be able to make new dashboards and alerts in 
+their instance and app will procedureally update, allowing people to share dashboards and alerts that they 
+have made without needing to constantly download files.
